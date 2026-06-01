@@ -1,0 +1,4 @@
+wait(1)
+loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/e65cb80702b05e90"))()
+
+-- fish it game
