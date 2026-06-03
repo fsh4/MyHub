@@ -1,9 +1,3 @@
-game.StarterGui:SetCore("SendNotification", {
-    Title = "GG HUB",
-    Text = "hello, wait a minute, might be laggy",
-    Duration = 8
-})
-
 -- hello to you if u were able to get here
 -- u silly goober
 -- we added key systems to directly scripts btw
