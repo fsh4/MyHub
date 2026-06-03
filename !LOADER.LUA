@@ -7,7 +7,11 @@
 
 
 
-
+game.StarterGui:SetCore("SendNotification", {
+    Title = "GG HUB",
+    Text = "Might be laggy, wait a minute pls",
+    Duration = 5
+})
 
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Others/refs/heads/main/WS", true))()
