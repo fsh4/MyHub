@@ -60,7 +60,7 @@ elseif gameId == carsGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/fsh4/MyHub/main/CarsTrading"))()
 
 elseif gameId == toysGameId then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/fsh4/MyHub/main/toys"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/fsh4/MyHub/refs/heads/main/new-ToysTradingPremandFree"))()
 
 elseif gameId == mm2GameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/fsh4/MyHub/main/Murderer%20Myster%202"))()
