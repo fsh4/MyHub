@@ -12,7 +12,7 @@ game.StarterGui:SetCore("SendNotification", {
 })
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Others/refs/heads/main/WS", true))()
+-- loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Others/refs/heads/main/WS", true))()
 
 local gameId = game.PlaceId  
 
