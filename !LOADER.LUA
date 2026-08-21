@@ -46,7 +46,7 @@ local parkourBrainrotGameId      = 75034791252172
 local SurviveZombieArenaId       = 98927955463992  
 local SlimeRNGGameId             = 92416421522960  
 local BbqitGameId                = 88518003689791  
-
+local mineamountainGameId        = 125927821145949
 
 -- GAME CHECKS  
 
@@ -135,6 +135,10 @@ elseif gameId == SlimeRNGGameId then
 
 elseif gameId == BbqitGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/fsh4/MyHub/main/BBQTycoon.lua"))()
+
+elseif gameId == mineamountainGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/fsh4/MyHub/refs/heads/main/mineamountain"))()
+
 
 else
     warn("GG Hub does not support this game")
